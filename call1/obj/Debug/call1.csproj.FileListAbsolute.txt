@@ -1,0 +1,11 @@
+C:\Users\masha\source\repos\call1\call1\bin\Debug\call1.exe.config
+C:\Users\masha\source\repos\call1\call1\bin\Debug\call1.exe
+C:\Users\masha\source\repos\call1\call1\bin\Debug\call1.pdb
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.csproj.AssemblyReference.cache
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.csproj.SuggestedBindingRedirects.cache
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.Form1.resources
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.Properties.Resources.resources
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.csproj.GenerateResource.cache
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.exe
+C:\Users\masha\source\repos\call1\call1\obj\Debug\call1.pdb
